@@ -9,3 +9,5 @@ This is my first post on the Wayfarer 3! A bus ticket machine built by MDL in th
 I purchased mine from eBay for £20 last week and plan to get it working again keeping the body, LCD, keypad and dot-matrix printer but with new internals that I can customize.
 
 The first step was to crack open the machine to see what was inside and give it a good clean on the way...
+
+![My helpful screenshot](/assets/WF3 - Boards Dirt.png)
