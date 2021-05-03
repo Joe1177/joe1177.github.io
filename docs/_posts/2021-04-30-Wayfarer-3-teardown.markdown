@@ -10,4 +10,4 @@ I purchased mine from eBay for £20 last week and plan to get it working again k
 
 The first step was to crack open the machine to see what was inside and give it a good clean on the way...
 
-![My helpful screenshot](/assets/WF3 - Boards Dirt.png)
+![My helpful screenshot](/assets/WF3 - Boards Dirty.png)
