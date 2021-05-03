@@ -12,21 +12,21 @@ The first step was to crack open the machine to see what was inside and give it 
 ![WF3 Dirty Boards](/assets/WF3 - Boards Dirty.png)
 
 Here is the panel behind the keyboard:
-![WF3 Behind Keypad](assets/WF3 - Behind Keypad.png)
+![WF3 Behind Keypad](/assets/WF3 - Behind Keypad.png)
 
 This is the leaking battery which I have now removed from the board:
-![WF3 Leaking Battery](assets/WF3 - Battery.png)
+![WF3 Leaking Battery](/assets/WF3 - Battery.png)
 
 The EPROM:
-![WF3 EPROM](assets/WF3 - EPROM.png)
+![WF3 EPROM](/assets/WF3 - EPROM.png)
 
 The processor:
-![WF3 Processor](assets/WF3 - Processor.png)
+![WF3 Processor](/assets/WF3 - Processor.png)
 
 The keypad and LCD screen:
-![WF3 Back of LCD and Keypad](assets/WF3 - Keypad LCD Back.png)
-![WF3 Keypad Layout](assets/WF3 - Keypad Layout.png)
-![WF3 LCD](assets/WF3 - LCD Chips.png)
+![WF3 Back of LCD and Keypad](/assets/WF3 - Keypad LCD Back.png)
+![WF3 Keypad Layout](/assets/WF3 - Keypad Layout.png)
+![WF3 LCD](/assets/WF3 - LCD Chips.png)
 
 The dot-matrix printer:
-![WF3 Underneath the Printer](assets/WF3 - Printer Bottom.png)
+![WF3 Underneath the Printer](/assets/WF3 - Printer Bottom.png)
