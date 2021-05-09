@@ -10,7 +10,7 @@ One of the first things I wanted to do was test the LCD panel and keypad using a
 
 The keypad was easy to work out with a multimeter and you can find the pin out on [this page]({% link wayfarer/keypad.md %}).
 
-The LCD should have been easy too, after working out that it was equivalent to the DMC-16188, I managed to find the [datasheet here](). The only problem I had with the screen was that Pin 1 on the connector (marked with an arrow) was not equivalent to Pin 1 on the LCD; in fact it was Pin 2.
+The LCD should have been easy too, after working out that it was equivalent to the DMC-16188, I managed to find the [datasheet here]({% link /assets/LCDOptrex.pdf %}). The only problem I had with the screen was that Pin 1 on the connector (marked with an arrow) was not equivalent to Pin 1 on the LCD; in fact it was Pin 2.
 
 Unfortunately I didn't have a 100k potentiometer to hand either so had to deal with the bad contrast too.
 

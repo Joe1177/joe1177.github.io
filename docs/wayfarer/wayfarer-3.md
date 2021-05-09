@@ -6,6 +6,11 @@ permalink: /wayfarer/wayfarer-3/
 
 Holding Page for Wayfarer 3
 
+Details on the internals of the Wayfarer 3 can be found on the following pages:
+- [LCD]({% link wayfarer/lcd.md %})
+- [Keypad]({% link wayfarer/keypad.md %})
+- [Printer]({% link wayfarer/printer.md %})
+
 ## Blog Posts
 
 <div id="archives">
