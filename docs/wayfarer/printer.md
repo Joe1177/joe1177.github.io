@@ -11,13 +11,13 @@ The motor is 12v DC
 
 maxon DC motor 2140.934
 
-![Motor](/assets/WF - Motor.png)
+![Motor](/assets/WF3 - Motor.png)
 
 ## Motor Sensor
 HOA1879-015
 
-![Motor Sensor](/assets/WF - Motor Sensor.png)
+![Motor Sensor](/assets/WF3 - Motor Sensor.png)
 
 ## Low Paper Sensor
 Optek OPB704 9322
-![Paper Sensor](/assets/WF - Paper Sensor.png)
+![Paper Sensor](/assets/WF3 - Paper Sensor.png)

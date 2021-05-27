@@ -92,4 +92,4 @@ The LEDs are paired in series with 26 parallel lines.
 
 The voltage drop measured across a LED was 1.8v.
 
-![LED Volt Drop](/assets/WF - LED V Drop.png)
+![LED Volt Drop](/assets/WF3 - LED V Drop.png)
