@@ -26,6 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://runbycode.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  joe1177
 
+# Header Pages
+header_pages:
+  - about.md
+  - wayfarer-3.md
+
 # Google Analytics
 google_analytics: "UA-196204401-1"
 
