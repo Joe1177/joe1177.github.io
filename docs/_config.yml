@@ -29,7 +29,7 @@ github_username:  joe1177
 # Header Pages
 header_pages:
   - about.md
-  - wayfarer-3.md
+  - wayfarer/wayfarer-3.md
 
 # Google Analytics
 google_analytics: "UA-196204401-1"
